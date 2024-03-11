@@ -1,3 +1,3 @@
 # ai-detection-for-akpl
 
-#school project
+School project
